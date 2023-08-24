@@ -1,4 +1,4 @@
 flask
 flask_sqlalchemy
 cloudinary
-mysql
+mysql-connector-python
